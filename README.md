@@ -16,6 +16,7 @@ Hi, I am Jae Seung Lee(이재승).
 - **2020.06 ~ 2021.03**
 
     **KITRI Best of the Best 9th - Vulnerability Assessment**
+    **                           - Team VirtualBoBs**
 
 # Education
 
