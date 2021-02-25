@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I am Jae Seung Lee(이재승).
+Hi, I am JaeSeung Lee(이재승).
 
 - Birth : August, 7th, 2000
 - E-mail : batjs@naver.com
