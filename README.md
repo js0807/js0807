@@ -2,8 +2,6 @@
 
 Hi, I am JaeSeung Lee(이재승).
 
-- Birth : August, 7th, 2000
-- E-mail : batjs@naver.com
 - Blog : [https://js0807.tistory.com/](https://js0807.tistory.com/)
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
