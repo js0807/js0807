@@ -10,6 +10,7 @@ Hi, I am JaeSeung Lee(이재승).
 - **2021.03 ~ Now**
 
     **Republic of Korea Army**
+    
     11Div Cert
 
 - **2020.06 ~ 2021.03**
