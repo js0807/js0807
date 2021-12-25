@@ -37,7 +37,7 @@ Hi, I am JaeSeung Lee(이재승).
 
 - **Software Development**
 
-    C, Python, Java
+    C++, Python, Java
 
 - **Web**
 
