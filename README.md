@@ -23,7 +23,7 @@ Hi, I am JaeSeung Lee(이재승).
 
 - **2019.03 ~ Now**
 
-    **Hanyang University**
+    **Hanyang University (Seoul)**
 
     Attending Bachelor of Bioengineering.
 
