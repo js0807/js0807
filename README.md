@@ -7,7 +7,7 @@ Hi, I am JaeSeung Lee(이재승).
 
 # Experience
 
-- **2021.03 ~ Now**
+- **2021.03 ~ 2021.09**
 
     **Republic of Korea Army**
     
