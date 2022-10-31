@@ -8,7 +8,7 @@ Hi, I am JaeSeung Lee(이재승).
 # Experience
 - **2022.11 ~ Now**
 
-    **42Seoul**
+    **42Seoul 8th**
     
     Cadet
     
