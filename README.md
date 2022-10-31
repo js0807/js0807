@@ -6,7 +6,12 @@ Hi, I am JaeSeung Lee(이재승).
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
 # Experience
+- **2022.11 ~ Now**
 
+    **42Seoul**
+    
+    42Seoul Cadet
+    
 - **2021.03 ~ 2021.09**
 
     **Republic of Korea Army**
