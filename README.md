@@ -12,7 +12,7 @@ Hi, I am JaeSeung Lee(이재승).
     
     Cadet
     
-- **2021.03 ~ 2021.09**
+- **2021.03 ~ 2022.09**
 
     **Republic of Korea Army**
     
