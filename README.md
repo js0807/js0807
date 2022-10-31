@@ -10,7 +10,7 @@ Hi, I am JaeSeung Lee(이재승).
 
     **42Seoul**
     
-    42Seoul Cadet
+    Cadet
     
 - **2021.03 ~ 2021.09**
 
