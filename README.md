@@ -6,7 +6,7 @@ Hi, I am JaeSeung Lee(이재승).
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
 # Experience
-- **2022.11 ~ Now**
+- **2022.11 ~ 2023.08**
 
     **42Seoul 8th**
     
