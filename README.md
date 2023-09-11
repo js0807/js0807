@@ -6,6 +6,12 @@ Hi, I am Jaeseung Lee(이재승).
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
 # Experience
+- **2023.09 ~ Now**
+
+    **GDSC Hanyang 23-24 3th**
+    
+    General Member (ML/DL)
+    
 - **2022.11 ~ 2023.08**
 
     **42Seoul 8th**
