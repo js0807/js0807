@@ -6,6 +6,7 @@ Hi, I am Jaeseung Lee(이재승).
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
 # Experience
+
 - **2020.06 ~ 2021.03**
 
     **KITRI Best of the Best 9th**
@@ -32,17 +33,17 @@ Hi, I am Jaeseung Lee(이재승).
 
 # Education
 
-- **2019.03 ~ Now**
-
-    **Hanyang University (Seoul)**
-
-    Attending Bachelor of Bioengineering.
-
 - **2016.03 ~ 2019.02**
 
     **Korea Digital Media High School**
 
     Graduated from Hacking Defense Department.
+
+- **2019.03 ~ Now**
+
+    **Hanyang University (Seoul)**
+
+    Attending Bachelor of Bioengineering.
 
 # Skills
 
