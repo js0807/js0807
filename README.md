@@ -6,29 +6,29 @@ Hi, I am Jaeseung Lee(이재승).
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
 # Experience
-- **2023.09 ~ Now**
+- **2020.06 ~ 2021.03**
 
-    **GDSC Hanyang 3th (23-24)**
+    **KITRI Best of the Best 9th**
     
-    General Member (ML/DL)
-    
-- **2022.11 ~ 2023.08**
+    Vulnerability Assessment
 
-    **42Seoul 8th**
-    
-    Cadet
-    
 - **2021.03 ~ 2022.09**
 
     **Republic of Korea Army**
     
     11Div CERT
 
-- **2020.06 ~ 2021.03**
+- **2022.11 ~ 2023.08**
 
-    **KITRI Best of the Best 9th**
+    **42Seoul 8th**
     
-    Vulnerability Assessment
+    Cadet
+
+- **2023.09 ~ Now**
+
+    **GDSC Hanyang 3th (23-24)**
+    
+    General Member (ML/DL)
 
 # Education
 
