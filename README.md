@@ -27,7 +27,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2023.09 ~ Now**
 
-    **GDSC Hanyang 3th (23-24)**
+    **GDSC Hanyang 3rd (23-24)**
     
     General Member (ML/DL)
 
