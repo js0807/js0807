@@ -5,6 +5,14 @@ Hi, I am Jaeseung Lee(이재승).
 - Blog : [https://js0807.tistory.com/](https://js0807.tistory.com/)
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
+# Company
+
+- **2024.02 ~ Now**
+
+    **ENKI**
+
+    Education and Traning Team
+
 # Experience
 
 - **2020.06 ~ 2021.03**
