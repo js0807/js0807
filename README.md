@@ -11,7 +11,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     **ENKI**
 
-    Education/Traning Team Developer
+    Education/Traning Team
 
 # Experience
 
