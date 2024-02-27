@@ -1,11 +1,11 @@
-# Introduction
+## Introduction
 
 Hi, I am Jaeseung Lee(이재승).
 
 - Blog : [https://js0807.tistory.com/](https://js0807.tistory.com/)
 - Github : [https://github.com/js0807](https://github.com/js0807)
 
-# Company
+## Company
 
 - **2024.02 ~ Now**
 
@@ -13,7 +13,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     Education/Traning Team
 
-# Experience
+## Experience
 
 - **2020.06 ~ 2021.03**
 
@@ -39,7 +39,7 @@ Hi, I am Jaeseung Lee(이재승).
     
     General Member (ML/DL)
 
-# Education
+## Education
 
 - **2016.03 ~ 2019.02**
 
@@ -53,7 +53,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     Attending Bachelor of Bioengineering.
 
-# Skills
+## Skills
 
 - **Software Development**
 
