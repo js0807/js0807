@@ -9,9 +9,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2024.02 ~ Now**
 
-    **ENKI**
-
-    **Education/Traning Team**
+    **ENKI - Education/Traning Team**
 
     Software Developer
 
