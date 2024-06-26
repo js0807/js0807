@@ -11,7 +11,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     **ENKI - Education/Traning Team**
 
-    Software Developer
+    Frontend Engineer
 
 ## Experience
 
@@ -61,4 +61,4 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **Web**
 
-    Basic(HTML, CSS, Javascript), PHP, JSP/Servlet
+    JSP/Servlet, Typescript, Next.js
