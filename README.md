@@ -33,7 +33,7 @@ Hi, I am Jaeseung Lee(이재승).
     
     Cadet
 
-- **2023.09 ~ Now**
+- **2023.09 ~ 2024.07**
 
     **GDSC Hanyang 3rd (23-24)**
     
