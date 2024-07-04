@@ -57,7 +57,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     **[Hanyang University](https://www.hanyang.ac.kr/) (Seoul)**
 
-    Attending Bachelor of Bioengineering.
+    Attending Bachelor of Bioengineering / BIO-SW convergence.
 
 ## Skills
 
