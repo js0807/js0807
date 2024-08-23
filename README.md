@@ -11,7 +11,7 @@ Hi, I am Jaeseung Lee(이재승).
 
     **[ENKI WhiteHat](https://www.enki.co.kr/) - Education/Traning Team**
 
-    Frontend Engineer
+    Frontend Engineer / PM
 
 ## Experience
 
