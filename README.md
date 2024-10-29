@@ -35,7 +35,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2023.09 ~ 2024.07**
 
-    **[GDSC Hanyang](https://gdsc-hanyang.oopy.io/) 3rd (23-24)**
+    **[GDSC Hanyang](https://www.instagram.com/gdsc_hanyang/) 3rd (23-24)**
     
     General Member (ML/DL)
 
