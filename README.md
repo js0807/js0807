@@ -9,9 +9,9 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2024.02 ~ Now**
 
-    **[ENKI WhiteHat](https://www.enki.co.kr/) - Education/Traning Team**
+    **[ENKI WhiteHat](https://www.enki.co.kr/)
 
-    Frontend Engineer / PM
+    Frontend Developer / PM
 
 ## Experience
 
