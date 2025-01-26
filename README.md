@@ -7,7 +7,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 ## Company
 
-- **2024.02 ~ Now**
+- **2024.02 ~ 2025.02**
 
     **[ENKI WhiteHat](https://www.enki.co.kr/)**
 
