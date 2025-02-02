@@ -39,12 +39,6 @@ Hi, I am Jaeseung Lee(이재승).
     
     General Member (ML/DL)
 
-- **2024.02 ~ Now**
-
-   **[Harang](https://www.notion.so/with-harang/db6ee8726a7847fd8de97843876741b2) (Social Cooperative)**
-
-   General Director of Technology
-
 ## Education
 
 - **2016.03 ~ 2019.02**
