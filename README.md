@@ -41,7 +41,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2024.02 ~ Now**
 
-    **[Harang](https://www.instagram.com/gdsc_hanyang/) (Social Cooperative)**
+    **[Harang](https://harang.oopy.io/) (Social Cooperative)**
     
     General Director of Technology
 
