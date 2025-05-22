@@ -61,7 +61,7 @@ Hi, I am Jaeseung Lee(이재승).
 
 - **2025.05 ~ Now**
 
-   **[Wonlab](https://wonlab.skku.edu/)**
+   **[Genomics & Digital Health Laboratory](https://wonlab.skku.edu/)**
 
    Intern Course
 
