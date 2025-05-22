@@ -59,6 +59,12 @@ Hi, I am Jaeseung Lee(이재승).
 
     Attending Bachelor of Bioengineering / BIO-SW convergence.
 
+- **2025.05 ~ Now**
+
+   **[Wonlab](https://wonlab.skku.edu/)**
+
+   Intern Course
+
 ## Skills
 
 - **Software Development**
