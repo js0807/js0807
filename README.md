@@ -39,7 +39,7 @@ Hi, I am Jaeseung Lee(이재승).
     
     General Member (ML/DL)
 
-- **2024.02 ~ Now**
+- **2024.02 ~ 2026.02**
 
     **[Harang](https://harang.oopy.io/) (Social Cooperative)**
     
