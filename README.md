@@ -45,6 +45,13 @@ Hi, I am Jaeseung Lee(이재승).
     
     General Director of Technology
 
+- **2025.05 ~ Now**
+
+   **[Genomics & Digital Health Laboratory](https://wonlab.skku.edu/)**
+
+   Intern Course (2025.05 ~ 2026.03)
+   Graduate Researcher (2026.03 ~ Now)
+  
 ## Education
 
 - **2016.03 ~ 2019.02**
@@ -53,17 +60,17 @@ Hi, I am Jaeseung Lee(이재승).
 
     Graduated from Hacking Defense Department.
 
-- **2019.03 ~ Now**
+- **2019.03 ~ 2026.02**
 
     **[Hanyang University](https://www.hanyang.ac.kr/) (Seoul)**
 
-    Attending Bachelor of Bioengineering / BIO-SW convergence.
+    B.S. in Bioengineering & Bio-SW Convergence
 
-- **2025.05 ~ Now**
+- **2026.03 ~ Now**
 
-   **[Genomics & Digital Health Laboratory](https://wonlab.skku.edu/)**
+   **[SAIHST](https://www.saihst.kr/)**
 
-   Intern Course
+   Combined MS/PhD Student in Digital Health
 
 ## Skills
 
